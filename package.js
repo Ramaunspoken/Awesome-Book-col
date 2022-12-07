@@ -1,5 +1,5 @@
 {
-  "name": "awesome book",
+  "name": "Awesome-Book",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
   "main": "main.js",
