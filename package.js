@@ -1,8 +1,12 @@
 {
-  "name": "Awesome-Book",
+  "name": "Awesome-book-plain-javascript-with-objects",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
   "main": "main.js",
+  "name": "awesome-book-plain-javascript-with-objects",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "Books.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
