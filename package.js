@@ -12,4 +12,4 @@
   "devDependencies": {
     "hint": "^7.1.3"
   }
-}
+};
