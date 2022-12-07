@@ -1,5 +1,10 @@
 {
-  "name": "awesome-book-col",
+
+  "name": "Awesome-book-col-plain-javascript-with-objects",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "main.js",
+  "name": "awesome-book-col-plain-javascript-with-objects",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
