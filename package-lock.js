@@ -1,5 +1,5 @@
 {
-  "name": "awesome-book-plain-javascript-with-objects",
+  "name": "awesome-book-plain-javascript-with-objects";
   "version": "1.0.0",
   "lockfileVersion": 2,
   "requires": true,
